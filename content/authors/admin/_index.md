@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniparthenope.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Assistant Professor at the Department of Science and Technology at the Parthenope University of Naples. In 2021 I had a research grant at the University of Rome La Sapienza. I obtained my PhD from the University of Salerno on topics of computer vision applied to video surveillance and biometric systems. I obtained a master's degree from the University of Pisa on data analysis and big data. I have served for several conferences (CVPR, ICIAP, CV-CMEM) and journals (e.g. IMAVIS, ESWA, SOCO, JAIHC, MTA, IEEE TIP, PRL). My research interests include machine learning techniques to solve issues using computer vision, as facial and gait recognition, action recognition, tumor detection and image segmentation for litter deception and for reconstruction of the frescoes. I'm also a member of GIRPR/IAPR, and GRIN.
+bio: Paola Barra is an Assistant Professor at the Department of Science and Technology at the Parthenope University of Naples. In 2021 she had a research grant at the University of Rome La Sapienza. Prior to that she obtained a PhD from the University of Salerno on topics of computer vision applied to video surveillance and biometric systems. She obtained a master's degree from the University of Pisa on data analysis and big data. She has served for several conferences (CVPR, ICIAP, CV-CMEM) and journals (e.g. IMAVIS, ESWA, SOCO, JAIHC, MTA, IEEE TIP, PRL). Her research interests include machine learning techniques to solve issues using computer vision, as facial and gait recognition, action recognition, tumor detection and image segmentation for litter detection and for reconstruction of the frescoes. She is also a member of GIRPR/IAPR, and GRIN.
 
 
 # Interests to show in About widget
@@ -81,6 +81,8 @@ email: ''
 highlight_name: true
 ---
 
-Paola Barra is an Assistant Professor at the Department of Science and Technology at the Parthenope University of Naples. In 2021 she had a research grant at the University of Rome La Sapienza.
-Prior to that she obtained a PhD from the University of Salerno on topics of computer vision applied to video surveillance and biometric systems. She obtained a master's degree from the University of Pisa on data analysis and big data. She has served for several conferences (CVPR, ICIAP, CV-CMEM) and journals (e.g. IMAVIS, ESWA, SOCO, JAIHC, MTA, IEEE TIP, PRL). Her research interests include machine learning techniques to solve issues using computer vision, as facial and gait recognition, action recognition, tumor detection and image segmentation for litter deception and for reconstruction of the frescoes. She is also a member of GIRPR/IAPR, and GRIN.
+
+
+I’m an Assistant Professor at the Department of Science and Technology at the Parthenope University of Naples. In 2021 I had a research grant at the University of Rome La Sapienza. I obtained my PhD from the University of Salerno on topics of computer vision applied to video surveillance and biometric systems. I obtained a master’s degree from the University of Pisa on data analysis and big data. I have served for several conferences (CVPR, ICIAP, CV-CMEM) and journals (e.g. IMAVIS, ESWA, SOCO, JAIHC, MTA, IEEE TIP, PRL). My research interests include machine learning techniques to solve issues using computer vision, as facial and gait recognition, action recognition, tumor detection and image segmentation for litter detection and for reconstruction of the frescoes. I’m also a member of GIRPR/IAPR, and GRIN.
+
 {style="text-align: justify;"}
