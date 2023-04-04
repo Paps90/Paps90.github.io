@@ -32,7 +32,7 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d0'
+        gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
   - block: about.avatar
@@ -93,7 +93,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Publications
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
