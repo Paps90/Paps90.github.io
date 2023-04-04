@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Paola Barra
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Paola
+last_name: Barra
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor 
+role: Assistant Professor 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Naples Parthenope, Department of Science and Technology
+  - name: University of Naples Parthenope
     url: https://www.uniparthenope.it/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,8 +28,8 @@ bio: I'm an Assistant Professor at the Department of Science and Technology at t
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Machine learning
 
 # Education to show in About widget
 education:
@@ -52,21 +52,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+#  - icon: facebook
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Facebook
+#    display:
+#      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=I9O3JWwAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Paps90
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/paola-barra-68b58b90/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
