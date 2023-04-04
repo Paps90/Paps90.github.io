@@ -81,5 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Paola Barra is an Assistant Professor at the Department of Science and Technology at the Parthenope University of Naples. In 2021 she had a research grant at the University of Rome La Sapienza.
+Prior to that she obtained a PhD from the University of Salerno on topics of computer vision applied to video surveillance and biometric systems. She obtained a master's degree from the University of Pisa on data analysis and big data. She has served for several conferences (CVPR, ICIAP, CV-CMEM) and journals (e.g. IMAVIS, ESWA, SOCO, JAIHC, MTA, IEEE TIP, PRL). Her research interests include machine learning techniques to solve issues using computer vision, as facial and gait recognition, action recognition, tumor detection and image segmentation for litter deception and for reconstruction of the frescoes. She is also a member of GIRPR/IAPR, and GRIN.
 {style="text-align: justify;"}
