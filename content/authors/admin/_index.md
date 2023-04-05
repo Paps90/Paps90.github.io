@@ -61,12 +61,11 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=I9O3JWwAAAAJ&hl=it&oi=ao
-  - icon: fa-utensils   
-    icon_pack: fas
+  - icon: scopus-square
     link: https://github.com/Paps90 
   - icon: github
     icon_pack: fab
-    link: https://github.com/Paps90 <i class="fa-light fa-square-s"></i>
+    link: https://github.com/Paps90 
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Paola-Barra 
