@@ -1,6 +1,5 @@
 ---
-title: "
-Fast QuadTree-Based Pose Estimation for Security Applications Using Face Biometrics"
+title: "Gait Analysis for Gender Classification in Forensics"
 authors:
 - admin
 - Carmen Bisogni

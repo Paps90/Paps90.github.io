@@ -1,6 +1,5 @@
 ---
-title: "
-Fast QuadTree-Based Pose Estimation for Security Applications Using Face Biometrics"
+title: "Gender classification on 2D human skeleton"
 authors:
 - admin
 - Carmen Bisogni

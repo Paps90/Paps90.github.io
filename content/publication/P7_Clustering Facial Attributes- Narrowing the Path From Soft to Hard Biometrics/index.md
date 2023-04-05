@@ -1,6 +1,5 @@
 ---
-title: "
-Fast QuadTree-Based Pose Estimation for Security Applications Using Face Biometrics"
+title: "Clustering Facial Attributes: Narrowing the Path From Soft to Hard Biometrics"
 authors:
 - admin
 - Carmen Bisogni

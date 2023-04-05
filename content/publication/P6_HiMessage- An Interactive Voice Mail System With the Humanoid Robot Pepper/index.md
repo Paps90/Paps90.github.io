@@ -1,6 +1,5 @@
 ---
-title: "
-Fast QuadTree-Based Pose Estimation for Security Applications Using Face Biometrics"
+title: "HiMessage: An Interactive Voice Mail System with the Humanoid Robot Pepper"
 authors:
 - admin
 - Carmen Bisogni

@@ -1,6 +1,5 @@
 ---
-title: "
-Fast QuadTree-Based Pose Estimation for Security Applications Using Face Biometrics"
+title: "Web-Shaped Model for Head Pose Estimation: An Approach for Best Exemplar Selection"
 authors:
 - admin
 - Carmen Bisogni
