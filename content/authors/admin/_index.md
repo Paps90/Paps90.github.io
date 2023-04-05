@@ -53,17 +53,20 @@ social:
     icon_pack: fas
     link: '/#contact'
 #  - icon: facebook
-#    icon_pack: fab
+#    icon_pack: fas
 #    link: https://twitter.com/GeorgeCushen
 #    label: Follow me on Facebook
 #    display:
 #      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=I9O3JWwAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/Paps90
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Paola-Barra
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/paola-barra-68b58b90/
