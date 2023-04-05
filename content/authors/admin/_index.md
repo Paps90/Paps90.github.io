@@ -61,8 +61,8 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=I9O3JWwAAAAJ&hl=it&oi=ao
-  - icon: scopus-square
-    icon_pack: custom
+  - icon: scopus
+    icon_pack: ai
     link: https://github.com/Paps90 
   - icon: github
     icon_pack: fab
