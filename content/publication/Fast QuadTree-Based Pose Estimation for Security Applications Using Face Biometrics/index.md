@@ -36,13 +36,13 @@ abstract: Face represents a convenient contactless biometric descriptor, current
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-02744-5_12
+url_pdf: ''
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-#url_source: ''
+url_source: 'https://link.springer.com/chapter/10.1007/978-3-030-02744-5_12'
 #url_video: ''
 
 # Featured image
