@@ -36,7 +36,7 @@ abstract: Gender Classification (GC) is a natural ability that belongs to the hu
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/chapter/10.1007/978-981-15-1304-6_15
+url_pdf: ''
 
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''

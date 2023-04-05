@@ -37,14 +37,13 @@ abstract: Notwithstanding the enhancement obtained in the last decade researches
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-15-1301-5_9'
-
+url_pdf: ''
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-#url_source: 'https://link.springer.com/chapter/10.1007/978-981-15-1301-5_9'
+url_source: 'https://link.springer.com/chapter/10.1007/978-981-15-1301-5_9'
 #url_video: ''
 
 # Featured image
