@@ -63,7 +63,7 @@ social:
     link: https://scholar.google.com/citations?user=I9O3JWwAAAAJ&hl=it&oi=ao
   - icon: scopus
     icon_pack: ai
-    link: https://github.com/Paps90 
+    link: https://www.scopus.com/authid/detail.uri?authorId=57205195650
   - icon: github
     icon_pack: fab
     link: https://github.com/Paps90 
