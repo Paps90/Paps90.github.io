@@ -27,3 +27,9 @@ abstract: Head pose estimation methods evaluate the amount of head rotation acco
 
 url_pdf: https://ieeexplore.ieee.org/document/8717583
 
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
