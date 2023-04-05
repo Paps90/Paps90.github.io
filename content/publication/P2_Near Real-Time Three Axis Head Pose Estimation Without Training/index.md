@@ -36,14 +36,14 @@ abstract: Head pose estimation methods evaluate the amount of head rotation acco
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/8717583
+url_pdf: ''
 
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-#url_source: ''
+url_source: 'https://ieeexplore.ieee.org/document/8717583'
 #url_video: ''
 
 # Featured image
