@@ -1,6 +1,5 @@
 ---
-title: "
-Fast QuadTree-Based Pose Estimation for Security Applications Using Face Biometrics"
+title: "An attention recurrent model for human cooperation detection"
 authors:
 - admin
 - Carmen Bisogni
